@@ -12,7 +12,7 @@ Configurado aplicação no [Heroku](https://projetofenix.herokuapp.com/)
 - Feito integração de Pipenv -Travis - Pyup
 - Configurado setup do projeto
 - Publicado projeto no [Heroku](https://projetofenix.herokuapp.com/)
-- Configurado Deploy automático.
+- Configurado Deploy automático
 - Configurado servidor para rodar no Pycharm
 - Configurado Pytest-Django
 - Configurado cobertura de testes com Pytest e Codecov
