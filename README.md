@@ -7,3 +7,12 @@ Criação de Plataforma criada com Python e Django seguindo as boas praticas de 
 [![codecov](https://codecov.io/gh/JosemarBrito/Fenix/branch/main/graph/badge.svg?token=HX7SPKVB7W)](https://codecov.io/gh/JosemarBrito/Fenix)
 
 Configurado aplicação no [Heroku](https://projetofenix.herokuapp.com/)
+
+- Instalado e configurado pipenv
+- Feito integração de Pipenv -Travis - Pyup
+- Configurado setup do projeto
+- Publicado projeto no [Heroku](https://projetofenix.herokuapp.com/)
+- Configurado Deploy automático
+- Configurado servidor para rodar no Pycharm
+- Configurado Pytest-Django
+- Configurado cobertura de testes com Pytest e Codecov
