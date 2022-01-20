@@ -16,3 +16,4 @@ Configurado aplicação no [Heroku](https://projetofenix.herokuapp.com/)
 - Configurado servidor para rodar no Pycharm
 - Configurado Pytest-Django
 - Configurado cobertura de testes com Pytest e Codecov
+- Configurado Python-Decouple e env-sample
