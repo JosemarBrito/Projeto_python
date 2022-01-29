@@ -18,3 +18,4 @@ Configurado aplicação no [Heroku](https://projetofenix.herokuapp.com/)
 - Configurado cobertura de testes com Pytest e Codecov
 - Configurado Python-Decouple e env-sample
 - Configurado Colectfast
+- configurado Colectfas
